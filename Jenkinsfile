@@ -11,5 +11,7 @@ environment {
         stage("build"){
             steps {
                  echo "----------Testing 123----------"
-    }
+            }
+       }
+    } 
 }
